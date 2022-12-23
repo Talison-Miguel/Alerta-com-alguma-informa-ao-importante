@@ -41,7 +41,7 @@ Este é um repositório de um componente de alerta, para alertar que o site nao 
 
 ✅ [ CSS ](https://developer.mozilla.org/pt-BR/docs/Web/CSS) <br/>
 ✅ [ HTML ](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <br/>
-✅ [ JS ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) <br/>
+✅ [ JavaScript ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) <br/>
 
 ---
 
