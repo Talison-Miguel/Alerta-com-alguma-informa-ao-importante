@@ -45,6 +45,8 @@ Este é um repositório de um componente de alerta, para alertar que o site nao 
 ✅ [ HTML ](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <br/>
 ✅ [ JS ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) <br/>
 
+---
+
 ###  IDE
 
   - [ Código do Visual Studio ](https://code.visualstudio.com/)
